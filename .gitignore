@@ -1,3 +1,4 @@
 FILE_CLEANER.py
 FILE_CLEANER.bat
 /.vscode
+*.py
